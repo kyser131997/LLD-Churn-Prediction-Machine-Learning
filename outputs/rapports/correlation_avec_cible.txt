@@ -1,0 +1,11 @@
+📌 Corrélation des variables avec la cible (Non_renouvellement) :
+
+Km souscrit                0.102912
+No du Contrat              0.045123
+Ecart_restitution_jours    0.011415
+Montant loyer mensuel     -0.084496
+Assurance_bin             -0.146558
+Divers_bin                -0.184860
+Gest. carburant_bin       -0.230164
+Nombre de prestations     -0.278016
+Name: Non_renouvellement, dtype: float64

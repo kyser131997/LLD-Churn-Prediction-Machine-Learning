@@ -1,0 +1,12 @@
+📊 TESTS STATISTIQUES
+
+🔍 Test du Chi² (variables binaires vs Non_renouvellement)
+Assurance_bin : p-value = 0.0000
+Gest. carburant_bin : p-value = 0.0000
+Divers_bin : p-value = 0.0000
+
+📉 Test de Student (variables continues vs Non_renouvellement)
+Montant loyer mensuel : p-value = 0.0000
+Km souscrit : p-value = 0.0000
+Anciennete_contrat : p-value = 0.0001
+Ecart_restitution_jours : p-value = 0.0229

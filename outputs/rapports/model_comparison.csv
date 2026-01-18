@@ -1,0 +1,4 @@
+Modèle,F1-score,Recall (classe 1),Précision
+Random Forest,0.724,0.72,0.7282
+Logistic Regression,0.6368,0.6422,0.6315
+XGBoost,0.7326,0.7517,0.7144

@@ -1,0 +1,31 @@
+📊 Dimensions :
+(40235, 11)
+
+🧩 Types de données :
+No du Contrat                int64
+Non_renouvellement           int64
+flag_actif                   int64
+Anciennete_contrat           int32
+Ecart_restitution_jours      int64
+Montant loyer mensuel      float64
+Km souscrit                  int64
+Nombre de prestations        int64
+Gest. carburant_bin          int64
+Assurance_bin                int64
+Divers_bin                   int64
+dtype: object
+
+🔍 Valeurs manquantes :
+No du Contrat              0
+Non_renouvellement         0
+flag_actif                 0
+Anciennete_contrat         0
+Ecart_restitution_jours    0
+Montant loyer mensuel      0
+Km souscrit                0
+Nombre de prestations      0
+Gest. carburant_bin        0
+Assurance_bin              0
+Divers_bin                 0
+dtype: int64
+
